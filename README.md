@@ -19,3 +19,8 @@ indications about adds
 other informations
 
 ## side informations 
+
+
+## copyright
+
+find copyright in the file simple.html
