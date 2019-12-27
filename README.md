@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## indications
 
-here some indications 
+find indications here 
 
 ## adds
 
